@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leomar Camargo  
 
-I'm a **Software Architect & Developer** with over a decade of experience in **.NET, Microsoft Azure, and modern software engineering practices**. My career has spanned solution design, technical leadership, and hands-on development—always with a focus on building **scalable, secure, and impactful systems**.  
+I'm a **Solutions Architect & Developer** with over a decade of experience in **.NET, Microsoft Azure, and modern software engineering practices**. My career has spanned solution design, technical leadership, and hands-on development—always with a focus on building **scalable, secure, and impactful systems**.  
 
 I thrive on solving complex challenges, mentoring teams, and aligning technology with business strategy. From architecting banking solutions in high-demand environments to guiding international projects with **microservices, DevOps, and event-driven systems**, I bring both **big-picture vision** and **attention to detail**.  
 

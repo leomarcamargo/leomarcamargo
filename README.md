@@ -84,10 +84,10 @@ I thrive on solving complex challenges, mentoring teams, and aligning technology
 
 ---
 
-## 📊 GitHub Stats  
+<!---## 📊 GitHub Stats  
 
 ![Leomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomarcamargo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomarcamargo&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomarcamargo&layout=compact&theme=tokyonight)  --->
 
 ---
 

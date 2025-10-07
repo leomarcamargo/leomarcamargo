@@ -53,16 +53,19 @@ I thrive on solving complex challenges, mentoring teams, and aligning technology
 
 ---
 
-## 🌟 Notable Projects & Contributions  
+## 🌟 Professional Experience Highlights  
 
 - **Banking Solutions @ Banco Sofisa & Carrefour**  
-  Designed and deployed architectures for core card products, biometric validation, and core banking services, leveraging .NET and cloud platforms.  
+  Designed and deployed cloud-native architectures for core card products, biometric validation, and financial services. Ensured scalability, security, and compliance in highly regulated environments.  
 
-- **International Project @ Avanade**  
-  Built microservices with **Kafka, CQRS, and .NET Core**, supporting global-scale financial solutions.  
+- **Global Project @ Avanade**  
+  Developed enterprise-grade microservices with **.NET Core, Kafka, and CQRS**, collaborating in a multicultural, distributed team to deliver financial solutions at global scale.  
 
-- **Academic & Professional Mentorship**  
-  Former university professor and Microsoft Certified Trainer, committed to knowledge sharing and helping professionals achieve certifications.  
+- **Leadership @ Arch Office**  
+  Directed technical teams, removed delivery blockers, and aligned architecture decisions with strategic business goals. Championed performance, code quality, and technical governance.  
+
+- **Mentorship & Teaching**  
+  Microsoft Certified Trainer and former university professor, mentoring professionals and students, supporting Microsoft certification achievements, and fostering engineering best practices.  
 
 ---
 
@@ -72,6 +75,10 @@ I thrive on solving complex challenges, mentoring teams, and aligning technology
 - Microsoft Certified: **Azure Developer Associate**  
 - Microsoft Certified: **DevOps Engineer Expert**  
 - Microsoft Certified: **Azure Data Engineer Associate**  
+- Microsoft Certified: **Azure Administrator Associate**  
+- Microsoft Certified: **Azure AI Fundamentals**  
+- Microsoft Certified: **Azure Fundamentals**  
+- Microsoft Certified: **Trainer (MCT)**  
 
 👉 [Full certification transcript](https://learn.microsoft.com/pt-br/users/leomarcamargo/transcript/dl9y3ig518z5mjj)  
 

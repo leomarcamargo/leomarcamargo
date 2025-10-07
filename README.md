@@ -93,10 +93,13 @@ I thrive on solving complex challenges, mentoring teams, and aligning technology
 
 ## 🎯 Professional Interests  
 
-- Cloud-native .NET solutions with Azure, GCP, and AWS  
-- Event-driven architecture and distributed systems  
-- DevOps automation and platform engineering  
-- Mentoring, technical leadership, and open-source contributions  
+- **Cloud-Native & Distributed Systems** → Designing resilient, event-driven, and high-performance systems across Azure, AWS, and GCP.  
+- **Software Architecture & Engineering Excellence** → Driving best practices in modular monoliths, microservices, DDD, and API-first development.  
+- **DevOps & Platform Engineering** → Automation, CI/CD, observability, and developer productivity at scale.  
+- **Data & Integration** → Event streaming (Kafka, RabbitMQ), data pipelines, and cloud-native databases.  
+- **Mentorship & Knowledge Sharing** → Empowering teams through coaching, technical leadership, and training (MCT background).  
+- **Open Collaboration** → Exploring opportunities in open-source, technical writing, and global engineering communities.  
+- **Innovation & Product Development** → Leveraging technology to deliver measurable business impact, from fintech to enterprise solutions.  
 
 ---
 
